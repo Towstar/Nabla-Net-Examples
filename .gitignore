@@ -1,0 +1,31 @@
+# CMake-generated build trees
+build/
+build-*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+
+# Visual Studio and compiler outputs
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.exe
+*.dll
+*.lib
+
+# Generated example output
+image_svd_row_features.csv
+
+# OS and archive-extraction metadata
+.DS_Store
+__MACOSX/
+._*
+.Rhistory
