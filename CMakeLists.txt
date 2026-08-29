@@ -9,7 +9,7 @@ option(NABLANET_EXAMPLES_BUILD_DATASET_EXAMPLES
     OFF
 )
 option(NABLANET_EXAMPLES_BUILD_FASHION_MNIST
-    "Build the OpenCV-backed Fashion-MNIST SVD feature example"
+    "Build the Fashion-MNIST SVD feature example"
     OFF
 )
 

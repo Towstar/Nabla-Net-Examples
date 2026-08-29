@@ -20,9 +20,11 @@ CTestTestfile.cmake
 *.exe
 *.dll
 *.lib
+.vscode/
 
 # Generated example output
 image_svd_row_features.csv
+local-notes/
 
 # OS and archive-extraction metadata
 .DS_Store

@@ -17,3 +17,18 @@ images and labels, plus 10,000 test images and labels. The data is stored in
 All four checksums were verified after download. Fashion-MNIST is released
 under the MIT License; retain the upstream attribution and license when
 redistributing this data.
+
+## Label mapping
+
+| Label | Article |
+| --- | --- |
+| 0 | T-shirt/top |
+| 1 | Trouser |
+| 2 | Pullover |
+| 3 | Dress |
+| 4 | Coat |
+| 5 | Sandal |
+| 6 | Shirt |
+| 7 | Sneaker |
+| 8 | Bag |
+| 9 | Ankle boot |
