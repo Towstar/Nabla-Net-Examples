@@ -1,5 +1,7 @@
 # NablaNet examples
 
+At the moment, only Fashion MNIST Classification contains a completed example.
+
 This directory contains the finalized public example layout for the sibling
 NablaNet library. Each project owns its source and `CMakeLists.txt`; the
 shared helper automatically includes the adjacent `../lib` checkout when the
